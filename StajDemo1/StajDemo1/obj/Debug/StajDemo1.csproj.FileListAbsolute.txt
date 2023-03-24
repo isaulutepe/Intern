@@ -1,0 +1,11 @@
+C:\Users\myasu\OneDrive\Masaüstü\Veri Yapıları Kodlamalar\Stackler\StajDemo1\StajDemo1\bin\Debug\StajDemo1.exe.config
+C:\Users\myasu\OneDrive\Masaüstü\Veri Yapıları Kodlamalar\Stackler\StajDemo1\StajDemo1\bin\Debug\StajDemo1.exe
+C:\Users\myasu\OneDrive\Masaüstü\Veri Yapıları Kodlamalar\Stackler\StajDemo1\StajDemo1\bin\Debug\StajDemo1.pdb
+C:\Users\myasu\OneDrive\Masaüstü\Veri Yapıları Kodlamalar\Stackler\StajDemo1\StajDemo1\obj\Debug\StajDemo1.csproj.AssemblyReference.cache
+C:\Users\myasu\OneDrive\Masaüstü\Veri Yapıları Kodlamalar\Stackler\StajDemo1\StajDemo1\obj\Debug\StajDemo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\myasu\OneDrive\Masaüstü\Veri Yapıları Kodlamalar\Stackler\StajDemo1\StajDemo1\obj\Debug\StajDemo1.Form1.resources
+C:\Users\myasu\OneDrive\Masaüstü\Veri Yapıları Kodlamalar\Stackler\StajDemo1\StajDemo1\obj\Debug\StajDemo1.Properties.Resources.resources
+C:\Users\myasu\OneDrive\Masaüstü\Veri Yapıları Kodlamalar\Stackler\StajDemo1\StajDemo1\obj\Debug\StajDemo1.csproj.GenerateResource.cache
+C:\Users\myasu\OneDrive\Masaüstü\Veri Yapıları Kodlamalar\Stackler\StajDemo1\StajDemo1\obj\Debug\StajDemo1.csproj.CoreCompileInputs.cache
+C:\Users\myasu\OneDrive\Masaüstü\Veri Yapıları Kodlamalar\Stackler\StajDemo1\StajDemo1\obj\Debug\StajDemo1.exe
+C:\Users\myasu\OneDrive\Masaüstü\Veri Yapıları Kodlamalar\Stackler\StajDemo1\StajDemo1\obj\Debug\StajDemo1.pdb
